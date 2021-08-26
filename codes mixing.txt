@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<style>
+h1 {text-align: center;}
+
+</style>
+<body>
+
+<h1 style="color:blue;">My First website</h1>
+<p style="text-align:center;">welcome to my first web. I'm still learning how to write webs, but i thing I'm getting good at it..</p>
+
+<br>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+<img src="ahmad.jpg"  width="125" height="120">
+<br>
+<p>About me.</p>
+
+<p> Name<u>:Muhammad Ahmad khan</u></p>
+<p style="color:blue"> Class & Class Number<u>:2th semester & 515</u></p>
+<p style="color:blue"> Department<u>:ICS/IT</u></p>
+<p style="color:red"> Mobile<u>:03330906666</u></p>
+<p style="color:red"> Address<u>:Darmangi warsak road,house, No.11 Northern villas,Peshawar</u></p>
+<a href="url">www.aup.edu.pk</a>
+</body>
+</html>
